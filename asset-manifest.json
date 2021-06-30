@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a81d35ce.chunk.css",
-    "main.js": "/static/js/main.e6c01409.chunk.js",
-    "main.js.map": "/static/js/main.e6c01409.chunk.js.map",
+    "main.css": "/static/css/main.cde7cf7e.chunk.css",
+    "main.js": "/static/js/main.dc49615c.chunk.js",
+    "main.js.map": "/static/js/main.dc49615c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bcfff28e.js",
     "runtime-main.js.map": "/static/js/runtime-main.bcfff28e.js.map",
     "static/js/2.a331a601.chunk.js": "/static/js/2.a331a601.chunk.js",
     "static/js/2.a331a601.chunk.js.map": "/static/js/2.a331a601.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a81d35ce.chunk.css.map": "/static/css/main.a81d35ce.chunk.css.map",
+    "static/css/main.cde7cf7e.chunk.css.map": "/static/css/main.cde7cf7e.chunk.css.map",
     "static/js/2.a331a601.chunk.js.LICENSE.txt": "/static/js/2.a331a601.chunk.js.LICENSE.txt",
     "static/media/postmates.7ce61913.png": "/static/media/postmates.7ce61913.png",
     "static/media/sass.672732e2.png": "/static/media/sass.672732e2.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.bcfff28e.js",
     "static/js/2.a331a601.chunk.js",
-    "static/css/main.a81d35ce.chunk.css",
-    "static/js/main.e6c01409.chunk.js"
+    "static/css/main.cde7cf7e.chunk.css",
+    "static/js/main.dc49615c.chunk.js"
   ]
 }
