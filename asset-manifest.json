@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.cde7cf7e.chunk.css",
-    "main.js": "/static/js/main.6be1edce.chunk.js",
-    "main.js.map": "/static/js/main.6be1edce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bcfff28e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bcfff28e.js.map",
-    "static/js/2.a331a601.chunk.js": "/static/js/2.a331a601.chunk.js",
-    "static/js/2.a331a601.chunk.js.map": "/static/js/2.a331a601.chunk.js.map",
+    "main.css": "/static/css/main.abd7fc7e.chunk.css",
+    "main.js": "/static/js/main.df60679d.chunk.js",
+    "main.js.map": "/static/js/main.df60679d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29d9327f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29d9327f.js.map",
+    "static/js/2.d17de1c2.chunk.js": "/static/js/2.d17de1c2.chunk.js",
+    "static/js/2.d17de1c2.chunk.js.map": "/static/js/2.d17de1c2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cde7cf7e.chunk.css.map": "/static/css/main.cde7cf7e.chunk.css.map",
-    "static/js/2.a331a601.chunk.js.LICENSE.txt": "/static/js/2.a331a601.chunk.js.LICENSE.txt",
-    "static/media/postmates.7ce61913.png": "/static/media/postmates.7ce61913.png",
+    "static/css/main.abd7fc7e.chunk.css.map": "/static/css/main.abd7fc7e.chunk.css.map",
+    "static/js/2.d17de1c2.chunk.js.LICENSE.txt": "/static/js/2.d17de1c2.chunk.js.LICENSE.txt",
+    "static/media/baja-fresh.a2583dfb.png": "/static/media/baja-fresh.a2583dfb.png",
+    "static/media/carvana.f935d19a.png": "/static/media/carvana.f935d19a.png",
+    "static/media/hbo-mobile.be77abae.png": "/static/media/hbo-mobile.be77abae.png",
+    "static/media/hbo.0dcb0abb.png": "/static/media/hbo.0dcb0abb.png",
+    "static/media/postmates.6a6a0dce.png": "/static/media/postmates.6a6a0dce.png",
     "static/media/sass.672732e2.png": "/static/media/sass.672732e2.png",
-    "static/media/slack.75aadf8a.png": "/static/media/slack.75aadf8a.png",
     "static/media/tailwind.e518737a.png": "/static/media/tailwind.e518737a.png",
-    "static/media/uber.bef82e6c.png": "/static/media/uber.bef82e6c.png",
-    "static/media/wb.bda865d4.png": "/static/media/wb.bda865d4.png"
+    "static/media/wb-mobile.8e20c73e.png": "/static/media/wb-mobile.8e20c73e.png",
+    "static/media/wb.bacf8c76.png": "/static/media/wb.bacf8c76.png",
+    "static/media/xbox-mobile.466ac8d6.png": "/static/media/xbox-mobile.466ac8d6.png",
+    "static/media/xbox.e668b1df.png": "/static/media/xbox.e668b1df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcfff28e.js",
-    "static/js/2.a331a601.chunk.js",
-    "static/css/main.cde7cf7e.chunk.css",
-    "static/js/main.6be1edce.chunk.js"
+    "static/js/runtime-main.29d9327f.js",
+    "static/js/2.d17de1c2.chunk.js",
+    "static/css/main.abd7fc7e.chunk.css",
+    "static/js/main.df60679d.chunk.js"
   ]
 }
