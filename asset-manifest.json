@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.abd7fc7e.chunk.css",
-    "main.js": "/static/js/main.df60679d.chunk.js",
-    "main.js.map": "/static/js/main.df60679d.chunk.js.map",
+    "main.js": "/static/js/main.082df66d.chunk.js",
+    "main.js.map": "/static/js/main.082df66d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29d9327f.js",
     "runtime-main.js.map": "/static/js/runtime-main.29d9327f.js.map",
     "static/js/2.d17de1c2.chunk.js": "/static/js/2.d17de1c2.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.d17de1c2.chunk.js.LICENSE.txt": "/static/js/2.d17de1c2.chunk.js.LICENSE.txt",
     "static/media/baja-fresh.a2583dfb.png": "/static/media/baja-fresh.a2583dfb.png",
     "static/media/carvana.f935d19a.png": "/static/media/carvana.f935d19a.png",
+    "static/media/del-taco.6b5bb3d3.png": "/static/media/del-taco.6b5bb3d3.png",
     "static/media/hbo-mobile.be77abae.png": "/static/media/hbo-mobile.be77abae.png",
     "static/media/hbo.0dcb0abb.png": "/static/media/hbo.0dcb0abb.png",
     "static/media/postmates.6a6a0dce.png": "/static/media/postmates.6a6a0dce.png",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.29d9327f.js",
     "static/js/2.d17de1c2.chunk.js",
     "static/css/main.abd7fc7e.chunk.css",
-    "static/js/main.df60679d.chunk.js"
+    "static/js/main.082df66d.chunk.js"
   ]
 }
