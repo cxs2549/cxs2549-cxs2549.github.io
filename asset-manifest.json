@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/react-marriott/static/css/main.3d232434.chunk.css",
-    "main.js": "/react-marriott/static/js/main.70e36237.chunk.js",
-    "main.js.map": "/react-marriott/static/js/main.70e36237.chunk.js.map",
-    "runtime-main.js": "/react-marriott/static/js/runtime-main.aaddd2f3.js",
-    "runtime-main.js.map": "/react-marriott/static/js/runtime-main.aaddd2f3.js.map",
-    "static/js/2.4fadd78b.chunk.js": "/react-marriott/static/js/2.4fadd78b.chunk.js",
-    "static/js/2.4fadd78b.chunk.js.map": "/react-marriott/static/js/2.4fadd78b.chunk.js.map",
-    "index.html": "/react-marriott/index.html",
-    "static/css/main.3d232434.chunk.css.map": "/react-marriott/static/css/main.3d232434.chunk.css.map",
-    "static/js/2.4fadd78b.chunk.js.LICENSE.txt": "/react-marriott/static/js/2.4fadd78b.chunk.js.LICENSE.txt",
-    "static/media/footer-logo.f52a6f63.png": "/react-marriott/static/media/footer-logo.f52a6f63.png",
-    "static/media/hero-mobile.3eba3c60.jpg": "/react-marriott/static/media/hero-mobile.3eba3c60.jpg",
-    "static/media/hero.cea322eb.jpg": "/react-marriott/static/media/hero.cea322eb.jpg",
-    "static/media/logo-nobg.da7da49f.png": "/react-marriott/static/media/logo-nobg.da7da49f.png",
-    "static/media/logo.a3b12b5f.png": "/react-marriott/static/media/logo.a3b12b5f.png",
-    "static/media/luxury.e4ea1187.jpg": "/react-marriott/static/media/luxury.e4ea1187.jpg"
+    "main.css": "/static/css/main.abd7fc7e.chunk.css",
+    "main.js": "/static/js/main.5de7bf82.chunk.js",
+    "main.js.map": "/static/js/main.5de7bf82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29d9327f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29d9327f.js.map",
+    "static/js/2.d17de1c2.chunk.js": "/static/js/2.d17de1c2.chunk.js",
+    "static/js/2.d17de1c2.chunk.js.map": "/static/js/2.d17de1c2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.abd7fc7e.chunk.css.map": "/static/css/main.abd7fc7e.chunk.css.map",
+    "static/js/2.d17de1c2.chunk.js.LICENSE.txt": "/static/js/2.d17de1c2.chunk.js.LICENSE.txt",
+    "static/media/arbys.6d7c2dc3.png": "/static/media/arbys.6d7c2dc3.png",
+    "static/media/carvana.f935d19a.png": "/static/media/carvana.f935d19a.png",
+    "static/media/del-taco.6b5bb3d3.png": "/static/media/del-taco.6b5bb3d3.png",
+    "static/media/hbo-mobile.be77abae.png": "/static/media/hbo-mobile.be77abae.png",
+    "static/media/hbo.0dcb0abb.png": "/static/media/hbo.0dcb0abb.png",
+    "static/media/marriott.512de5a5.png": "/static/media/marriott.512de5a5.png",
+    "static/media/sass.672732e2.png": "/static/media/sass.672732e2.png",
+    "static/media/tailwind.e518737a.png": "/static/media/tailwind.e518737a.png",
+    "static/media/xbox-mobile.466ac8d6.png": "/static/media/xbox-mobile.466ac8d6.png",
+    "static/media/xbox.e668b1df.png": "/static/media/xbox.e668b1df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aaddd2f3.js",
-    "static/js/2.4fadd78b.chunk.js",
-    "static/css/main.3d232434.chunk.css",
-    "static/js/main.70e36237.chunk.js"
+    "static/js/runtime-main.29d9327f.js",
+    "static/js/2.d17de1c2.chunk.js",
+    "static/css/main.abd7fc7e.chunk.css",
+    "static/js/main.5de7bf82.chunk.js"
   ]
 }
