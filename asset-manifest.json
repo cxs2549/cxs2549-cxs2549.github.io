@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.abd7fc7e.chunk.css",
-    "main.js": "/static/js/main.5de7bf82.chunk.js",
-    "main.js.map": "/static/js/main.5de7bf82.chunk.js.map",
+    "main.js": "/static/js/main.988980bb.chunk.js",
+    "main.js.map": "/static/js/main.988980bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29d9327f.js",
     "runtime-main.js.map": "/static/js/runtime-main.29d9327f.js.map",
-    "static/js/2.d17de1c2.chunk.js": "/static/js/2.d17de1c2.chunk.js",
-    "static/js/2.d17de1c2.chunk.js.map": "/static/js/2.d17de1c2.chunk.js.map",
+    "static/js/2.f4e49988.chunk.js": "/static/js/2.f4e49988.chunk.js",
+    "static/js/2.f4e49988.chunk.js.map": "/static/js/2.f4e49988.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.abd7fc7e.chunk.css.map": "/static/css/main.abd7fc7e.chunk.css.map",
-    "static/js/2.d17de1c2.chunk.js.LICENSE.txt": "/static/js/2.d17de1c2.chunk.js.LICENSE.txt",
+    "static/js/2.f4e49988.chunk.js.LICENSE.txt": "/static/js/2.f4e49988.chunk.js.LICENSE.txt",
     "static/media/arbys.6d7c2dc3.png": "/static/media/arbys.6d7c2dc3.png",
     "static/media/carvana.f935d19a.png": "/static/media/carvana.f935d19a.png",
     "static/media/del-taco.6b5bb3d3.png": "/static/media/del-taco.6b5bb3d3.png",
-    "static/media/hbo-mobile.be77abae.png": "/static/media/hbo-mobile.be77abae.png",
     "static/media/hbo.0dcb0abb.png": "/static/media/hbo.0dcb0abb.png",
     "static/media/marriott.512de5a5.png": "/static/media/marriott.512de5a5.png",
+    "static/media/motel6.a098c31e.png": "/static/media/motel6.a098c31e.png",
     "static/media/sass.672732e2.png": "/static/media/sass.672732e2.png",
+    "static/media/streets.cadfdbde.jpg": "/static/media/streets.cadfdbde.jpg",
     "static/media/tailwind.e518737a.png": "/static/media/tailwind.e518737a.png",
-    "static/media/xbox-mobile.466ac8d6.png": "/static/media/xbox-mobile.466ac8d6.png",
+    "static/media/wb.22eafb96.png": "/static/media/wb.22eafb96.png",
     "static/media/xbox.e668b1df.png": "/static/media/xbox.e668b1df.png"
   },
   "entrypoints": [
     "static/js/runtime-main.29d9327f.js",
-    "static/js/2.d17de1c2.chunk.js",
+    "static/js/2.f4e49988.chunk.js",
     "static/css/main.abd7fc7e.chunk.css",
-    "static/js/main.5de7bf82.chunk.js"
+    "static/js/main.988980bb.chunk.js"
   ]
 }
