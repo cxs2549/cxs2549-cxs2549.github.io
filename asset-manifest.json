@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.33f296a1.chunk.css",
-    "main.js": "/static/js/main.364173a9.chunk.js",
-    "main.js.map": "/static/js/main.364173a9.chunk.js.map",
+    "main.js": "/static/js/main.c1d3b694.chunk.js",
+    "main.js.map": "/static/js/main.c1d3b694.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29d9327f.js",
     "runtime-main.js.map": "/static/js/runtime-main.29d9327f.js.map",
     "static/js/2.f4e49988.chunk.js": "/static/js/2.f4e49988.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/showtime.51254413.png": "/static/media/showtime.51254413.png",
     "static/media/streets.cadfdbde.jpg": "/static/media/streets.cadfdbde.jpg",
     "static/media/tailwind.e518737a.png": "/static/media/tailwind.e518737a.png",
+    "static/media/tubi.b19df70a.png": "/static/media/tubi.b19df70a.png",
     "static/media/wb.22eafb96.png": "/static/media/wb.22eafb96.png",
     "static/media/xbox.e668b1df.png": "/static/media/xbox.e668b1df.png"
   },
@@ -27,6 +28,6 @@
     "static/js/runtime-main.29d9327f.js",
     "static/js/2.f4e49988.chunk.js",
     "static/css/main.33f296a1.chunk.css",
-    "static/js/main.364173a9.chunk.js"
+    "static/js/main.c1d3b694.chunk.js"
   ]
 }
