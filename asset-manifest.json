@@ -1,32 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.33f296a1.chunk.css",
-    "main.js": "/static/js/main.43144700.chunk.js",
-    "main.js.map": "/static/js/main.43144700.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.53f30350.js",
-    "runtime-main.js.map": "/static/js/runtime-main.53f30350.js.map",
-    "static/js/2.21dea516.chunk.js": "/static/js/2.21dea516.chunk.js",
-    "static/js/2.21dea516.chunk.js.map": "/static/js/2.21dea516.chunk.js.map",
+    "main.css": "/static/css/main.654d1210.chunk.css",
+    "main.js": "/static/js/main.5dbdff92.chunk.js",
+    "main.js.map": "/static/js/main.5dbdff92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
+    "static/js/2.b9c7131f.chunk.js": "/static/js/2.b9c7131f.chunk.js",
+    "static/js/2.b9c7131f.chunk.js.map": "/static/js/2.b9c7131f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.33f296a1.chunk.css.map": "/static/css/main.33f296a1.chunk.css.map",
-    "static/js/2.21dea516.chunk.js.LICENSE.txt": "/static/js/2.21dea516.chunk.js.LICENSE.txt",
+    "static/css/main.654d1210.chunk.css.map": "/static/css/main.654d1210.chunk.css.map",
+    "static/js/2.b9c7131f.chunk.js.LICENSE.txt": "/static/js/2.b9c7131f.chunk.js.LICENSE.txt",
     "static/media/arbys.6d7c2dc3.png": "/static/media/arbys.6d7c2dc3.png",
     "static/media/carvana.f935d19a.png": "/static/media/carvana.f935d19a.png",
     "static/media/coke.d56b80da.png": "/static/media/coke.d56b80da.png",
-    "static/media/del-taco.6b5bb3d3.png": "/static/media/del-taco.6b5bb3d3.png",
     "static/media/hbo.0dcb0abb.png": "/static/media/hbo.0dcb0abb.png",
     "static/media/marriott.512de5a5.png": "/static/media/marriott.512de5a5.png",
-    "static/media/motel6.a098c31e.png": "/static/media/motel6.a098c31e.png",
     "static/media/showtime.51254413.png": "/static/media/showtime.51254413.png",
-    "static/media/streets.cadfdbde.jpg": "/static/media/streets.cadfdbde.jpg",
     "static/media/tubi.b19df70a.png": "/static/media/tubi.b19df70a.png",
     "static/media/wb.22eafb96.png": "/static/media/wb.22eafb96.png",
     "static/media/xbox.e668b1df.png": "/static/media/xbox.e668b1df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.53f30350.js",
-    "static/js/2.21dea516.chunk.js",
-    "static/css/main.33f296a1.chunk.css",
-    "static/js/main.43144700.chunk.js"
+    "static/js/runtime-main.f027f2bf.js",
+    "static/js/2.b9c7131f.chunk.js",
+    "static/css/main.654d1210.chunk.css",
+    "static/js/main.5dbdff92.chunk.js"
   ]
 }
